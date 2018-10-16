@@ -1,0 +1,23 @@
+.green-background {
+  background-color: green;
+}
+
+.blue-background {
+  background-color: blue;
+  color: white;
+}
+
+.red-background {
+  background-color: red;
+}
+
+
+
+.clickable {
+  cursor: pointer;
+  color: #8811ff;
+}
+
+.clickable:hover {
+  text-decoration: underline;
+}
